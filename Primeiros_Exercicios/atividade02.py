@@ -1,0 +1,1 @@
+n1= input(float("Informe um número para verificação: "))
