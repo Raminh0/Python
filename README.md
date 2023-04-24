@@ -1,2 +1,2 @@
 # CDD_py
-Exercitando python
+Exercitando lógica de programação com python...
