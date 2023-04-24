@@ -15,5 +15,5 @@ while (deseja == "1") or (deseja==sim):
         print(f"O resultado da média é: {media:.1f}\n\nDeseja realizar um novo cálculo?(1-Sim - 2-Não)")
         deseja = input()
 else:
-    print("tchau arrombado.")
+    print("tchau.")
 # Atualizar para tratar as notas individualmente
