@@ -1,2 +1,2 @@
 # CDD
-Projetos CDD
+Exercitando python
